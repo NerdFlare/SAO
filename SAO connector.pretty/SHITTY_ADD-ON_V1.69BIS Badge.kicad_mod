@@ -1,0 +1,274 @@
+(footprint "SHITTY_ADD-ON_V1.69BIS Badge"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Sullins Connector Solutions SFH11-NBPC-D03-ST-BK")
+	(tags "Female Socket Polarizing Key")
+	(property "Reference" "REF**"
+		(at -0.1 -6.9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e4a06306-76ee-47f8-8bfa-bca43b6ad6d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SHITTY_ADD-ON_V1.69BIS Badge"
+		(at 0 2.725 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8863dece-a46f-498f-857d-94a234bec2f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adeb569d-7557-4eaf-8bf8-be97821ca42d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://s3.amazonaws.com/catalogspreads-pdf/PAGE123%20.100%20SFH11%20SERIES%20FEMALE%20HDR%20ST%20RA.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b03ebb25-a6f7-423d-8d3f-bc4949feef9f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Sullins Connector Solutions"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "befb3a34-3c59-4f8b-bec2-92dfd7b98ccd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.88 -5.47)
+		(end 3.86 -5.47)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc85d058-5e7a-438c-9f1a-ca002fb1eb09")
+	)
+	(fp_line
+		(start -3.88 -0.275)
+		(end -3.88 -5.47)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "803e8d40-1f9b-4f92-91c6-d304c80cdd41")
+	)
+	(fp_line
+		(start -3.88 -0.275)
+		(end 3.86 -0.275)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5bf5bf43-ca83-46c1-9e12-28dd5f28ca12")
+	)
+	(fp_line
+		(start 3.86 -0.275)
+		(end 3.86 -5.47)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b12ece91-4c90-4ff1-8b8a-a73bdf2b6224")
+	)
+	(fp_rect
+		(start -1.17 -5.915)
+		(end 1.33 -5.515)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "422c4aca-6ba7-463e-8c26-4b5fa6036f47")
+	)
+	(fp_line
+		(start -7.6 -7.6)
+		(end -7.6 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c8d17a90-47b6-4577-9d66-61ea283e0c60")
+	)
+	(fp_line
+		(start -7.6 1.4)
+		(end 7.4 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fad052f1-af46-472a-9b66-516076ed2d8e")
+	)
+	(fp_line
+		(start 7.4 -7.6)
+		(end -7.6 -7.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2ac666b1-9d30-4d15-8709-0e6f54f80e71")
+	)
+	(fp_line
+		(start 7.4 1.4)
+		(end 7.4 -7.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12cbb679-365b-428b-95d4-a4af1b9db15a")
+	)
+	(fp_line
+		(start -3.82 -5.41)
+		(end -3.82 -0.335)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "88ccc158-0d11-4c6a-8fca-b2f044535c7c")
+	)
+	(fp_line
+		(start -3.82 -5.41)
+		(end 3.8 -5.41)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d331adc-1004-45d8-aa9c-dc4fa1034c9f")
+	)
+	(fp_line
+		(start -3.82 -0.335)
+		(end 3.8 -0.33)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8517695b-575b-4317-bf09-317e7c54ab8e")
+	)
+	(fp_line
+		(start 3.8 -5.41)
+		(end 3.8 -0.33)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec7f4ac7-a5fa-4a5c-bda6-8f6cfd6eeb5d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 4.5 180)
+		(layer "F.Fab")
+		(uuid "8c1b78f3-21af-4c3f-a877-8471c8e5c1b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -2.55 -4.14 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "cfe12096-c708-4b46-b591-6aa8f4437a07")
+	)
+	(pad "2" thru_hole oval
+		(at -2.55 -1.6 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ac2c7b5d-c592-4feb-8a79-ec8d686e7bdd")
+	)
+	(pad "3" thru_hole oval
+		(at -0.01 -4.14 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7bdab4fd-1f6c-40a3-97d2-8eaa59df5784")
+	)
+	(pad "4" thru_hole oval
+		(at -0.01 -1.6 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "85393438-40f1-480e-9072-e6e7f353c2ee")
+	)
+	(pad "5" thru_hole oval
+		(at 2.53 -4.14 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c44bf2d1-3f94-4df8-81ac-3555605edfee")
+	)
+	(pad "6" thru_hole circle
+		(at 2.53 -1.6 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f1a5f34e-a7d3-4071-9189-33ebea64e2a1")
+	)
+	(model "/Users/znjp/Dropbox/service/NerdFlare/pcbs/SAO/Badge connector.step"
+		(offset
+			(xyz 0 3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)
